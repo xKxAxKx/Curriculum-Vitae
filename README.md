@@ -1,6 +1,7 @@
 # 職務経歴書
 
 ## 基本情報
+|key|value|
 |---|-----|
 |Name|角谷 太雅(Hiromasa Kakutani)|
 |Blog|[K Diary](http://xkxaxkx.hatenablog.com/)|
