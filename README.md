@@ -39,16 +39,16 @@
 
 ### やったことはないけど興味があるもの
 - ディープラーニング、形態素解析を用いたアプリケーション開発
-- Ruby、Ruby On Railsを用いたRestful APIの開発
+- Ruby、Ruby On Railsを用いたRESTful APIの開発
 - Reactを用いたフロントエンド開発
 
 ## 職務経歴
 ### 2017/2 - (現在):株式会社アカリ
 職務:Djangoを用いたサーバサイド開発、Angularを用いたフロントエンド開発、AWSを用いたインフラ構築
 #### 某空調サービス会社ランディングサイト制作(2017/7)
-Django Rest Frameworkを用いたAPIの開発、及びAWSでのインフラ構築。
+Django REST Frameworkを用いたAPIの開発、及びAWSでのインフラ構築。
 #### 某メディアサイト制作(2017/4 - 2017/7)
-Django Rest Frameworkを用いたAPIの開発、Angularを用いたフロントエンドの開発。
+Django REST Frameworkを用いたAPIの開発、Angularを用いたフロントエンドの開発。
 また、独自CMS用にGoogleAnalyticsAPI/SearchConsoleAPIを用いたダッシュボード開発、smartformat/facebookにフィード配信するためにPythonのBeautiful Soupを用いたXML開発も経験。
 #### 某エネルギー関係企業コーポレートサイト制作(2017/2 - 2017/4)
 Djangoでの問い合わせシステムの開発。
