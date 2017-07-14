@@ -15,7 +15,6 @@
 - Typescript
 - Javascript
 - PHP
-
 - 日本語
   - ネイティブ
 - 英語
