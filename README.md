@@ -15,6 +15,7 @@
 - PHP
 - TypeScript
 - JavaScript
+- Ruby
 - 日本語
   - ネイティブ
 - 英語
@@ -25,6 +26,7 @@
 - Angular(2以降)
 - CakePHP
 - Laravel
+- Ruby on Rails
 
 ### その他
 - API設計
