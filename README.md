@@ -4,14 +4,15 @@
 |key|value|
 |---|-----|
 |Name|角谷 太雅(Hiromasa Kakutani)|
-|Blog|[K Diary](http://xkxaxkx.hatenablog.com/)|
-|Twitter|[@xKxAxKx](https://twitter.com/xKxAxKX)|
+|Site|[K Diary](https://kktnhrms.com)|
+|Blog|[K Diary](http://xkxaxkx.hatenablog.com)|
+|Twitter|[@xKxAxKx](https://twitter.com/xKxAxKx)|
 |Qiita|[xKxAxKx](http://qiita.com/xKxAxKx)|
 
 ## スキル
 
 ### 言語
-- Python(3系)
+- Python
 - PHP
 - TypeScript
 - JavaScript
@@ -86,7 +87,6 @@
 - サーバ設計、DB設計、ジョブ設計、運用設計、非機能要件定義
 #### その他
 - 親会社(昭和シェル石油)に出向し、石油の流通業務に従事
-
 <hr>
 
 ### その他
