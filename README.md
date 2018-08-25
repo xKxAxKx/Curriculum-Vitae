@@ -4,7 +4,7 @@
 |key|value|
 |---|-----|
 |Name|角谷 太雅(Hiromasa Kakutani)|
-|Site|[K Diary](https://kktnhrms.com)|
+|Site|[kktnhrms.com](https://kktnhrms.com)|
 |Blog|[K Diary](http://xkxaxkx.hatenablog.com)|
 |Twitter|[@xKxAxKx](https://twitter.com/xKxAxKx)|
 |Qiita|[xKxAxKx](http://qiita.com/xKxAxKx)|
