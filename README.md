@@ -25,6 +25,8 @@
 ### フレームワーク
 - Django
 - Angular(2以降)
+- Vue.js
+- Nuxt.js
 - CakePHP
 - Laravel
 - Ruby on Rails
@@ -52,9 +54,12 @@
 #### 職務内容
 - 要件定義・基本設計・詳細設計
 - サーバサイド開発
+- フロントエンド開発
+- サーバサイド開発
 - インフラ保守/運用
 #### 詳細
 - Django/Django Rest Frameworkを用いたAPIの開発/保守
+- Nuxt.jsを用いたフロントエンド開発
 - AWSでのインフラ保守
 <hr>
 
